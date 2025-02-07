@@ -1,3 +1,8 @@
 <div>
+  {% assign film = site.data.films[page.film-name] %}
   by: {{ film.author }} ({{ film.release-date}})
+
 </div>
+
+![{{ film.name }}](assets/{{ film.picture }})
+

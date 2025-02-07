@@ -3,9 +3,9 @@ title: "Blue Velvet"
 date: 2025-02-02
 categories: [films]
 tags: [movie]
-data: blue-velvet
+film-name: blue-velvet
 ---
-{% assign film = site.data.data[page.data] %}
+
 {% include header_films.html %}
 ![Blue Velvet](assets/01-Blue-Velvet.jpeg)
 

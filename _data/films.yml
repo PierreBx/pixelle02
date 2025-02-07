@@ -1,6 +1,10 @@
 blue-velvet:
+  name: Blue Velvet
   author: David Lynch
   release-date: 1986
+  picture: 01-blue-velvet.webp
 mulholland-drive:
+  name: Mulholland Drive
   author: David Lynch
   release-date: 2001
+  picture: 02-mulholland-drive.webp
